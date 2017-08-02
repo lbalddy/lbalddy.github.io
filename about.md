@@ -4,21 +4,13 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+> **<p>Un ser humano debe ser capaz de cambiar pañales, planear invasiones, despiezar cerdos, navegar barcos, diseñar edificios, escribir sonetos, contabilizar saldos, levantar paredes, tratar fracturas, dar consuelo a moribundos, recibir órdenes, dar órdenes, cooperar, actuar solo, resolver ecuaciones, analizar nuevos problemas, retirar estiércol, programar ordenadores, cocinar bien, luchar eficientemente, morir con gallardía. La especialización es para los insectos. </p>**
+> 
+> Robert A. Heinlein - "Tiempo para Amar" 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Una filosofía de vida, quizás no la mejor, pero desde luego la más divertida. Mientras que muchos se especializan en algo, yo me acostumbro a navegar entre lo que hace que hace parecido lo diferente.</p>
 
-<h2>Skills</h2>
+<h2>Habilidades</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
